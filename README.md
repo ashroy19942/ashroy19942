@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashroy19942
+- 👋 Hi, I’m Ashok Sapkota.
 - 👀 I’m interested in data preparation, exploration, visualisation and modelling.
 - 🌱 I’m currently learning Master's in Business Analytics.
 - 💞️ I’m looking to collaborate on data projects.
